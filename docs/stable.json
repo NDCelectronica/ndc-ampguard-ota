@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "product": "NDC_AMP_GUARD",
+  "hardware": "AMP_GUARD_S2",
+  "channel": "stable",
+  "version": "0.0.0",
+  "build": 0,
+  "available": false,
+  "mandatory": false,
+  "size": 0,
+  "sha256": "",
+  "url": ""
+}
